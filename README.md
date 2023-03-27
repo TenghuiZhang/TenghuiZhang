@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on Software engineer
-- 📫 How to reach me by tz222@cornell.edu
+- 📫 How to reach me by huizshy@gmail.com
 
 <!---
 TenghuiZhang/TenghuiZhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
